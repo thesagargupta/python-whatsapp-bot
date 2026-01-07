@@ -1,0 +1,19 @@
+# WhatsApp Bot with Menu System - Python Dependencies
+
+# Web Framework
+Flask==3.0.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Google API Libraries
+google-api-python-client==2.108.0
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# Additional utilities
+Werkzeug==3.0.1
